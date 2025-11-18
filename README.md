@@ -1,18 +1,6 @@
-# User Authentication API - NEXTBIGE Challenge 1
+# User Authentication API 
 
-A complete user authentication system built with Django REST Framework, JWT tokens, and Docker as per NEXTBIGE Challenge 1 requirements.
-
-## 📋 Assignment Requirements Met
-
-- ✅ Custom User Model extending Django's AbstractUser
-- ✅ Indian phone number validation
-- ✅ JWT token authentication
-- ✅ Custom middleware for IP address capture
-- ✅ REST API endpoints (register, login, profile)
-- ✅ Docker and Docker Compose with PostgreSQL
-- ✅ Pytest test cases
-- ✅ Class-based views
-- ✅ Proper project structure and documentation
+A complete user authentication system built with Django REST Framework, JWT tokens, and Docker.
 
 ## 🚀 Quick Start
 
